@@ -1,0 +1,7 @@
+# Site settings
+title: My Awesome Jekyll Site
+description: >- 
+  A simple site built with Jekyll and hosted on GitHub Pages.
+
+# Theme
+theme: minima
