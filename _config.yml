@@ -1,7 +1,40 @@
 # Site settings
-title: My Awesome Jekyll Site
-description: >- 
-  A simple site built with Jekyll and hosted on GitHub Pages.
+title: efpasia
+description: >-
+  thinking about something
+baseurl: ""
+url: "https://efpasia.github.io"
 
-# Theme
+author:
+  name: efpasia
+  email: efpasia@gmail.com
+
+
+twitter_username: efpasia
+github_username: efpasia
+linkedin_username: germi
+
 theme: minima
+
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+collections:
+  posts:
+    output: true
+    permalink: /blog/:year/:month/:day/:title/
+
+header_pages:
+  - about.md
+  - blog/index.md
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "efpasia"
