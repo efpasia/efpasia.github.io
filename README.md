@@ -1,2 +1,0 @@
-# efpasia.github.io
-blog
