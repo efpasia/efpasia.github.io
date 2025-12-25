@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The API Tooling Crisis: Why developers are abandoning Postman and it's clones?"
+title: "The API Tooling Crisis: Why developers are abandoning Postman and its clones?"
 date: 2025-12-24 23:00:00 +0800
 categories: thoughts
 ---
