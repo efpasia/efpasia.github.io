@@ -16,6 +16,8 @@ linkedin_username: germi
 
 theme: minima
 
+google_analytics: G-HZ2YMSFFBX
+
 markdown: kramdown
 plugins:
   - jekyll-feed
