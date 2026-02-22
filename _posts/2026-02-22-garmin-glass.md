@@ -71,8 +71,13 @@ In the Gen 1 design (2019–2024), the solar panel was semitransparent and stret
 <!-- ![Gen 1 (2019–2024) on the left and Gen 2 (2024+) on the right comparison](/assets/images/garmin-glass.png) -->
 
 <figure>
-  <img src="/assets/images/garmin-glass.png" alt="Gen 1 (2019–2024) on the left and Gen 2 (2024+) on the right comparison">
-  <figcaption>Gen 1 (2019–2024) on the left and Gen 2 (2024+) on the right comparison</figcaption>
+  <a href="/assets/images/garmin-glass.png" target="_blank">
+    <img src="/assets/images/garmin-glass.png" 
+         alt="Gen 1 (2019–2024) on the left and Gen 2 (2024+) on the right comparison">
+  </a>
+  <figcaption>
+    Gen 1 (2019–2024) on the left and Gen 2 (2024+) on the right comparison
+  </figcaption>
 </figure>
 
 ### Photovoltaic Efficiency and Panel Orientation
