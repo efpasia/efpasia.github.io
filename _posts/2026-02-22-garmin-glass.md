@@ -213,7 +213,7 @@ Apple sits at the opposite end of the design philosophy. The Apple Watch Ultra 3
 
 Coros is the more interesting competitor. They've built a strong reputation for lightweight, long-battery GPS watches at aggressive price points, and they actually shipped a solar product: the [DURA bike computer](https://www.wired.com/review/coros-dura-solar-gps-bike-computer/). On paper, the DURA's solar implementation rivaled or exceeded Garmin's Edge units. In practice, the product shipped with enough software and reliability issues that it hasn't translated into real competitive pressure – at least not yet. Critically, Coros still has no solar watch in its lineup. Their watches compete on efficiency alone, and they do it well, but they haven't attempted the solar integration that defines Garmin's leading products.
 
-Most other wearable manufacturers – Samsung, Suunto, Polar – haven't shipped solar at all. Garmin's moat here isn't just the solar lens itself. It's the vertical integration: the Power Sapphire lens, the MIP display optimized for low power, the MPPT power management, the aggressive firmware clock scaling – all developed in-house and refined over six years and two hardware generations. Replicating any one piece is feasible. Replicating the stack is a multi-year engineering program.
+Most other wearable manufacturers – Samsung and Polar – haven't shipped solar at all. Suunto made a brief attempt with the first-generation Suunto Vertical, which included solar charging, but interestingly removed this feature in the second generation (which switched to an AMOLED display). Garmin's moat here isn't just the solar lens itself. It's the vertical integration: the Power Sapphire lens, the MIP display optimized for low power, the MPPT power management, the aggressive firmware clock scaling – all developed in-house and refined over six years and two hardware generations. Replicating any one piece is feasible. Replicating the stack is a multi-year engineering program.
 
 ### Why Solar Wins – and Why Nothing Else Is Close
 
@@ -255,5 +255,9 @@ If you're planning multi-day expeditions, running ultras, bike touring across re
 
 If you're a daily gym-goer who charges every night on the nightstand anyway, an AMOLED Garmin – or frankly any modern smartwatch – is perfectly fine. Solar is a useful extra at that point, not a necessity. The beautiful screen will matter more to you than an extra two weeks of theoretical runway you'll never use.
 
-After all, the small infinity symbol on your wrist means that you are wearing something special. It is not just a clever invention, but the result of a whole series of engineering tricks, which you now know more about. That “∞” isn’t just a flex; it’s a reminder that every layer inside is doing its part to keep you going, no matter where you take it!
+After all, the small infinity symbol on your wrist means that you are wearing something special. It is not just a clever invention, but the result of a whole series of engineering tricks, which you now know more about. That "∞" isn't just a flex; it's a reminder that every layer inside is doing its part to keep you going, no matter where you take it!
+
+---
+
+*Edited 23 Feb 2026 to correct Suunto information. Thanks to [this Reddit comment](https://www.reddit.com/r/GarminWatches/comments/1rby52c/comment/o6wycd0/).*
 
