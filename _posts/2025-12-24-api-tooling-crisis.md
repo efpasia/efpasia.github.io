@@ -48,4 +48,12 @@ It’s far from perfect, Bruno’s UI lacks polish, and migrating is a headache 
 
 API tooling today sits somewhere between bloated, cloud-locked giants and lightweight, open, local-first newcomers. For every Postman or Insomnia, there’s a Bruno, Hurl, or Httpie — each being different points on the spectrum, but no single tool nails everything. Some are too barebones, some still need polish, and everywhere I look, it feels like there’s a missing piece.
 
-But maybe that’s good. Maybe we’re still waiting for someone to finally break the compromise. I hope someone is working on it. Maybe it’s you. Maybe it'll be me. The best tool probably hasn’t been built yet.
+But maybe that’s good. Maybe we’re still waiting for someone to finally break the compromise. I hope someone is working on it. Maybe it’s you. Maybe it’ll be me. The best tool probably hasn’t been built yet.
+
+---
+
+**Update — March 2026:**
+
+Well, well. Postman just shipped what they call [Native Git](https://blog.postman.com/new-postman-is-here/) — collections stored as YAML files on your filesystem, branching that matches your actual Git branches, offline mode, the works. Sound familiar? It’s basically the Bruno pitch, repackaged inside a [$19/user/month paywall](https://blog.postman.com/new-capabilities-march-2026/). They even killed free team plans entirely — the Free tier is now solo-only, so if your team of three was happily collaborating on Postman for zero dollars, congratulations, that’s [$684 a year now](https://apidog.com/blog/postman-old-pricing-vs-new-pricing/). Collaboration went from "free feature" to "metered resource" overnight.
+
+Here’s the thing that bugs me: the "recommended workflow" is still `postman workspace push` to sync everything back to their cloud. There’s a "local view" and a "cloud view," and guess which one matters for sharing, governance, and all the enterprise features they actually want to sell you? The cloud one. So yes, your files technically live on disk now — right until you need to do anything collaborative, at which point you’re right back in Postman’s cloud, paying per seat. They saw the exodus toward local-first tools, copied the surface-level feature, and bolted it onto the same cloud-locked business model. It’s the API tooling equivalent of painting a racing stripe on a minivan. The direction is right, I guess, but the incentives haven’t changed.
